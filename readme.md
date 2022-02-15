@@ -4,7 +4,7 @@ I created this project to being practicing with the Python3 language and the Dja
 
 ## Getting Started
 
-Coming soon!
+Deployed with Azure
 
 ### Prerequisites
 

@@ -43,3 +43,16 @@ def about(request):
             'year':datetime.now().year,
         }
     )
+
+def webpage1(request):
+    """Renders the about page."""
+    assert isinstance(request, HttpRequest)
+    return render(
+        request,
+        'app/webpage1.html',
+        {
+            'title':'webpage1',
+            'message':'My first web page.',
+            'year':datetime.now().year,
+        }
+    )

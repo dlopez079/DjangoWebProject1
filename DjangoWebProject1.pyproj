@@ -55,8 +55,22 @@
     <Folder Include="app\templates\" />
     <Folder Include="app\templates\app\" />
     <Folder Include="DjangoWebProject1\" />
+    <Folder Include="Properties\" />
+    <Folder Include="Properties\PublishProfiles\" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Properties\PublishProfiles\MM-DjangoWebProject1 - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\MM-DjangoWebProject1 - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\MM-DjangoWebProject1 - FTP1.pubxml" />
+    <None Include="Properties\PublishProfiles\MM-DjangoWebProject1 - Web Deploy1.pubxml" />
+    <None Include="Properties\PublishProfiles\MM-DjangoWebProject1 - FTP2.pubxml" />
+    <None Include="Properties\PublishProfiles\MM-DjangoWebProject1 - Web Deploy2.pubxml" />
+    <None Include="Properties\PublishProfiles\MM-DjangoWebProject1 - FTP3.pubxml" />
+    <None Include="Properties\PublishProfiles\MM-DjangoWebProject1 - Web Deploy3.pubxml" />
+    <None Include="Properties\PublishProfiles\MM-DjangoWebProject1 - FTP4.pubxml" />
+    <None Include="Properties\PublishProfiles\MM-DjangoWebProject1 - Web Deploy4.pubxml" />
+    <None Include="Properties\PublishProfiles\MM-DjangoWebProject1 - FTP5.pubxml" />
+    <None Include="Properties\PublishProfiles\MM-DjangoWebProject1 - Web Deploy5.pubxml" />
     <Content Include="readme.md">
       <SubType>Code</SubType>
     </Content>

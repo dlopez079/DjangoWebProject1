@@ -11,7 +11,7 @@ I used Python as the primary language, which did not provide difficulty to learn
 I used the Django template provided by Visual Studio 2022.   I modified some of the pages and created a new HTML page with a route because I understood the folder structure and the environment. .  I provided notes in my commits.
 
 * Deployed with Azure
-I used the Azure portal to create the web application instead of the Azure CLI (which I used the first time I deployed to Azure), and I find the CLI easier and faster to use.  I connected to the Azure portal via 'local git' and pushed my application once I finished committing and pushing it to Github.  When I pushed to 'azure master,' the entire code was sent up rather than the modified files, which took a long time.  I will continue to use the Azure CLI within Visual Studio 2022 to create the web application in Azure. 
+I used the Azure portal to create the web application instead of the Azure CLI (which I used the first time I deployed to Azure), and I find the CLI easier and faster to use.  I connected to the Azure portal via 'local git' and pushed my application once I finished committing and pushing it to Github.  When I pushed to 'azure master,' the entire code was sent up rather than the modified files, which took a long time.  I will continue to use the Azure CLI within Visual Studio 2022 to create the web application in Azure. I ran into an issue where I could not get the statid files (img, css, js) up to the production server.  The development environment displays fine.  I opened an issue and will get back to this. 
 
 
 ### Prerequisites

@@ -71,6 +71,7 @@
     <None Include="Properties\PublishProfiles\MM-DjangoWebProject1 - Web Deploy4.pubxml" />
     <None Include="Properties\PublishProfiles\MM-DjangoWebProject1 - FTP5.pubxml" />
     <None Include="Properties\PublishProfiles\MM-DjangoWebProject1 - Web Deploy5.pubxml" />
+    <Content Include="app\templates\app\WebPage1.html" />
     <Content Include="readme.md">
       <SubType>Code</SubType>
     </Content>

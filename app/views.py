@@ -39,7 +39,7 @@ def about(request):
         'app/about.html',
         {
             'title':'About',
-            'message':'Your application description page.',
+            'message':'Default message created via route which can be reference in the DOM with curly braces .',
             'year':datetime.now().year,
         }
     )

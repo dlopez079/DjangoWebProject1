@@ -51,7 +51,7 @@ def webpage1(request):
         request,
         'app/webpage1.html',
         {
-            'title':'webpage1',
+            'title':'Web Page 1',
             'message':'My first web page.',
             'year':datetime.now().year,
         }
